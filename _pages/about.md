@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jonathan S. Takeshita"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
