@@ -23,9 +23,9 @@ repository               : "jtakeshi/jtakeshi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jonathan S. Takeshita, Ph.D."
+  name             : "Jonathan Takeshita"
   pronouns         : # example: "she/her"  
-  bio              : "Dr. Takeshita is an Assistant Professor at ODU"
+  bio              : "Assistant Professor @ ODU"
   location         : "Norfolk, VA"
   employer         : "Old Dominion University"
   uri              : # URL
