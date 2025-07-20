@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""Fixing your computer gets a lot easier once you become willing to just reinstall the operating system.""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-“Fixing your computer gets a lot easier once you become willing to just reinstall the operating system.”
+
 
 #About Me
 
