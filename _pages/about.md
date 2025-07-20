@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "'Fixing your computer gets a lot easier once you become willing to just reinstall the operating system.'"
+title: "Jonathan S. Takeshita"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-#About Me
+"Fixing your computer gets a lot easier once you become willing to just reinstall the operating system."
+==================
 
 Hi! I’m Jonathan Takeshita (竹下ジョナサン賢), and I am currently an Assistant Professor at Old Dominion University, where I am appointed in both the Department of Computer Science and School of Cybersecurity. The School is the first of its kind in the United States, and brings with its inception a wealth of new opportunities for cross-disciplinary work. My research spans a wide array of topics including homomorphic encryption, trusted hardware, hardware acceleration for cryptography, private data aggregation, music theory, image deduplication, LLM security, and private advertising. I have also taught or tutored several courses in STEM subjects and music at a few different institutions now. For more information about my research, teaching, etc., please see the other pages on this site.
 
