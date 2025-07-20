@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""Fixing your computer gets a lot easier once you become willing to just reinstall the operating system.""
+title: "'Fixing your computer gets a lot easier once you become willing to just reinstall the operating system.'"
 author_profile: true
 redirect_from: 
   - /about/
