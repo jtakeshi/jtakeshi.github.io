@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jonathan Takeshita / 竹下ジョナサン賢博士"
+title                    : "Jonathan Takeshita / 竹下ジョナサン賢"
 title_separator          : "-"
 name                     : &name "Jonathan Takeshita"
 description              : &description "Dr. Takeshita's academic website"
