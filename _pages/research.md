@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
+---
+
 Research Projects and Publications
 ====
 (NB: some papers may be listed in more than one area.)
