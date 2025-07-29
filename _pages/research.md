@@ -25,7 +25,7 @@ This work seeks to expand the scale and classes of computation that TEEs are cap
 * [Provably secure contact tracing with conditional private set intersection (Published at Securecomm 2021)](https://link.springer.com/chapter/10.1007/978-3-030-90019-9_18)
 * [GPS: Integration of Graphene, PALISADE, and SGX for Large-scale Aggregations of Distributed Data. (Preprint)](https://eprint.iacr.org/2021/1155.pdf)
 * [CryptoGram: fast private calculations of histograms over multiple users’ inputs (Published at DCOSS 2021)](https://ieeexplore.ieee.org/abstract/document/9600039/)
-* [Cryptonomial: A Framework for Private Time-Series Polynomial Calculations (Published at Securecomm 2021)]: (https://eprint.iacr.org/2021/473.pdf)
+* [Cryptonomial: A Framework for Private Time-Series Polynomial Calculations (Published at Securecomm 2021)](https://eprint.iacr.org/2021/473.pdf)
 * [Cryptonite: A Framework for Flexible Time-Series Secure Aggregation with Non-interactive Fault Recovery (Published at Securecomm 2021)](https://eprint.iacr.org/2020/1561.pdf)
 * [Using Intel SGX to improve private neural network training and inference (Published at HoTSoS 2020)](https://dl.acm.org/doi/abs/10.1145/3384217.3386399)
 * [Non-interactive MPC with trusted hardware secure against residual function attacks (Published at Securecomm 2019)](https://link.springer.com/chapter/10.1007/978-3-030-37231-6_25)
