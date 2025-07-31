@@ -34,13 +34,13 @@ Finally, I have made significant changes to most assignments, which previously w
 challenge students to show a much more thorough understanding of cryptography than assignments only testing arithmetic. Questions I have
 added include:
 * Societal questions (e.g., "What are some risks from government-mandated key escrow?")
-* Proof-like questions to help students more deeply understand cryptographic protocols (e.g.. "Show that both parties must derive the same keyin Diffie-Hellman key exchange")
+* Proof-like questions to help students more deeply understand cryptographic protocols (e.g.. "Show that both parties must derive the same key in Diffie-Hellman key exchange")
 * Comparative questions (e.g., "What is an advantage of elliptic-curve cryptography, compared to other cryptosystems we have studied?" or "What is an actual or potential weakness of elliptic-curve cryptography?")
 * Experimental questions (e.g., an extra-credit question asking students to implement and compare the runtime of the regular/binary Euclidean algorithms)
 
-I also now have the last question of every assignment require students to develop their own question and solution that could have appeared on
-the assignment. This allows students a chance to show how they have deeply learned the material (as this requires more than just swapping
-values in existing problems}. It also gives myself and other instructors for CS 463/563 some inspiration for new problems in the future. I am
+I also now have the last question of every assignment require students to develop their own problem and solution that could have appeared on
+the assignment. This allows students a chance to show how they have deeply learned the material (as the prompt requires more than just swapping
+values in existing problems). It also gives myself and other instructors for CS 463/563 some inspiration for new problems in the future. I am
 happy to report that a significant number of student responses to this part of the assignment are not just computational, but show deep critical
 thinking about the topics, both on mathematical and social levels.
 
