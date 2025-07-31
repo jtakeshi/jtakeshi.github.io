@@ -39,13 +39,14 @@ Unfortunately, the underlying mathematics lead to high computational intensity, 
 My work in hardware acceleration seeks to overcome these obstacles via bespoke hardware, utilizing in-memory computing to allow high parallelism and obviate the data transfer penalties seen in conventional architectures.
 * [Privacy preserving in-memory computing engine (Preprint)](https://arxiv.org/abs/2308.02648)
 * [Accelerating finite-field and torus FHE via compute-enabled (S)RAM (Published in IEEE Transactions on Computers in 2023)](https://ieeexplore.ieee.org/abstract/document/10202174/)
+* Initial implementation and design of Google's [Jaxite](https://github.com/google/jaxite) library, which implements Torus FHE on a Tensor Processing Unit. 
 * [Algorithmic acceleration of B/FV-like somewhat homomorphic encryption for compute-enabled RAM (published at Selected Areas in Cryptography 2020)](https://link.springer.com/chapter/10.1007/978-3-030-81652-0_3)
 * [Computing-in-memory for performance and energy-efficient homomorphic encryption (published in IEEE Transactions on VLSI Systems in 2020)](https://ieeexplore.ieee.org/abstract/document/9179010/)
 
 (More papers forthcoming!)
 
 
-Homomorphic Encryption (not related to hardware acceleration)
+Homomorphic Encryption (besides hardware acceleration works)
 --
 Since the original formulation of fully homomorphic encryption in 2009, a great deal of research has gone into taking FHE from a theoretical construction to practical deployment.
 My work joins this effort by helping to explore and improve software utility, performance, and real-world applications.
@@ -78,12 +79,21 @@ Applications of this work include privacy-preserving elections, advertising, dat
 * [Cryptonite: A Framework for Flexible Time-Series Secure Aggregation with Non-interactive Fault Recovery (Published at Securecomm 2021)](https://eprint.iacr.org/2020/1561.pdf)
 
 
-
-Secure Data Deduplication
---
-
 Technology and Society
 --
 
 Music Theory
 --
+Western music theory utilizes a 12-tone system, with the interval between each octave divided into 12 semitones. Previous work applied group theory to extend the mathematical framework underlying the 12-tone system to systems with 8k+4 semitones (for positive integers k). My senior thesis work under Dr. Mark Bollman explored continuing this line of research. Counterpoint, the style and rules of music defining the Baroque era, depends heavily on intervals between different melodic lines. Thus in order to be able to write contrapuntal music in systems of 8k+4 tones, a concept of “interval” is needed for these higher-order systems. My research showed that the traits of intervals in a 12-tone system can be used to derive an algorithm for classifying intervals in higher-order systems, and that the algorithm’s results are coherent and consistent with both the 12-tone system and higher-order systems. 
+
+If there is a student with the prerequisite background in modern algebra and music theory, then I am happy to mentor them in continuing this work. A warning to anyone wanting to continue this line of research: though the mathematics are fascinating, a conclusion of previous work is that music in higher-order systems will sound unpalatably dissonant.
+
+* [Classification of Consonance in Generalized Tonal Systems (published in The Pentagon, Vol 76, No. 2)](http://www.kappamuepsilon.org/Pentagon/Vol_76_Num_2_Spring_2017.pdf)
+  * [Implementation of the classification algorithm](https://gitlab.com/jtakeshi/consonances)
+
+
+Secure Data Deduplication
+--
+Deduplication is the process of identifying similar or identical data so as to conserve storage and bandwidth by not needlessly storing duplicates. Deduplication schemes are very diverse, differing in their goals, methods, and assumptions. Performing deduplication securely presents a natural conflict: users wish to safeguard their data, but information about the data must be used to detect duplicates. My work in deduplication asks: how much functionality can a deduplication scheme achieve in a highly adversarial scenario, using minimal cryptographic assumptions? It turns out you can do a lot: without even a single trusted party, secure nearly-identical deduplication can be achieved even against fully malicious adversaries.
+
+* [Secure Single-Server Nearly-Identical Image Deduplication (Published at IEEE ICCCN 2020)](https://ieeexplore.ieee.org/abstract/document/9209728)
