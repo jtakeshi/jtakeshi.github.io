@@ -13,7 +13,7 @@ I'm especially proud of my first semester teaching Cryptography for Cybersecurit
 Firstly, I have overhauled the final project, which now allows students their choice of 3 activities: a survey paper of a subfield of cryptography. a
 programming project implementing functionality beyond what is learned in class (e.g., from research papers), or a paper with novel research
 (intended for PhD students only). The project requires the student to propose a topic, which I then offer guidance on before approval (e.g.,
-suggesting scholarly sources, programming advice). I am very impressed with the project proposals (due last Sunday), which show that my
+suggesting scholarly sources, programming advice). I was very impressed with both the project proposals and final results, which show that my
 students are rising to the challenge with independent investigation in an area of their choice. In many cases, students selected topics close
 to my research areas, which has allowed me to give well-tailored advice to them. I believe this to be a great improvement over the previous final
 project, which gave students a very specific prompt to write about, or a programming project only related to material directly covered in class.
