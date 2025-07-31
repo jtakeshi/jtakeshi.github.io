@@ -5,9 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching
-===
-
 Old Dominion University
 --
 * Cryptography (CSE/CYSE 463/563)
