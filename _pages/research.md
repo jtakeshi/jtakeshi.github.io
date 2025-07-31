@@ -75,12 +75,20 @@ Applications of this work include privacy-preserving elections, advertising, dat
 * [SLAP: Simpler, Improved Private Stream Aggregation from Ring Learning with Errors](https://link.springer.com/article/10.1007/s00145-023-09450-w)
   * The software library for SLAP can be found [here](https://gitlab.com/jtakeshi/lattices/). It could do with some more QoL features, and maybe some multithreading.
 * [TERSE: tiny encryptions and really speedy execution for post-quantum private stream aggregation (Published at Securecomm 2022)](https://link.springer.com/chapter/10.1007/978-3-031-25538-0_18)
-* [Cryptonomial: A Framework for Private Time-Series Polynomial Calculations (Published at Securecomm 2021)]: (https://eprint.iacr.org/2021/473.pdf)
+* [Cryptonomial: A Framework for Private Time-Series Polynomial Calculations (Published at Securecomm 2021)](https://eprint.iacr.org/2021/473.pdf)
 * [Cryptonite: A Framework for Flexible Time-Series Secure Aggregation with Non-interactive Fault Recovery (Published at Securecomm 2021)](https://eprint.iacr.org/2020/1561.pdf)
 
 
 Technology and Society
 --
+My belief is that an important purpose of academic research is to not only carry out purely technical work, but to think critically about how that work affects society. This is especially important for computer scientists, considering how strongly the world is impacted by our domain. My work to uphold this obligation spans topics including AI, law, and higher education.
+
+* Spoke at "The Future of Voice Communications: AI Transformations Roundtable" - Old Dominion University and Map Communications (Spring 2025)
+* Presented "Failure and Success in Graduate Study" - ODU CS 800 (Spring 2025)
+* Presented "Privacy-Enhancing Technologies in American Law" at the Kwansei Gakuin University Workshop on Privacy-Enhancing Technologies and Law (2024)
+* Presented "Privacy-Enhancing Technologies for Educationally Focused AI" at the [Trustworthy AI Lab for Education Summit](https://lucyinstitute.nd.edu/trustworthy-ai-lab-for-education-summit/) (2023)
+
+(More papers forthcoming!)
 
 Music Theory
 --
