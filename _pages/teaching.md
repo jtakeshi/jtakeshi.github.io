@@ -11,6 +11,7 @@ Teaching
 Old Dominion University
 --
 * Cryptography (CSE/CYSE 463/563)
+
 I'm especially proud of my first semester teaching Cryptography for Cybersecurity at ODU.
 Firstly, I have overhauled the final project, which now allows students their choice of 3 activities: a survey paper of a subfield of cryptography. a
 programming project implementing functionality beyond what is learned in class (e.g., from research papers), or a paper with novel research
