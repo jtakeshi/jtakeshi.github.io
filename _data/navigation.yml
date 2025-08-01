@@ -22,6 +22,8 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
+  - title: "Applied Privacy Engineering and Science Lab"
+    url: /lab/
         
   - title: "Blog Posts"
     url: /year-archive/
