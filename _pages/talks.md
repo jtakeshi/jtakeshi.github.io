@@ -17,4 +17,4 @@ Slides and notes are available upon request.
 * "Privacy-Enhancing Technologies for Educationally Focused AI" ([Trustworthy AI Lab for Education Summit](https://lucyinstitute.nd.edu/trustworthy-ai-lab-for-education-summit/)) - Dec. 1, 2023
 * "Privacy-Preserving Computation" (Seagate Research Group) - June 6, 2023
 * "A Brief Introduction to Japanese Society and Culture" (University of Notre Dame Book Club) - April 26, 2023
-* ["Privacy-Preserving Computation"(http://mathcs.albion.edu/Colloquium_List.php?year=2022) (Albion College, Department of Mathematics and Computer Science Colloquium Series) - Dec. 1, 2022
+* ["Privacy-Preserving Computation"](http://mathcs.albion.edu/Colloquium_List.php?year=2022) (Albion College, Department of Mathematics and Computer Science Colloquium Series) - Dec. 1, 2022
