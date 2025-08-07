@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-NB: I have given conference talks for each of my first-author conference papers, which can be found here: [Research](https://jtakeshi.github.io/research/)
+NB: I have given conference talks for each of my first-author conference papers, which can be found here: [Research](https://jtakeshi.github.io/research/).
 There may be some overlap between the items here and in the research categories listed.
 Slides and notes are available upon request.
 * "The Future of Voice Communications: AI Transformations Roundtable" (Old Dominion University and Map Communications) - April 30, 2025
