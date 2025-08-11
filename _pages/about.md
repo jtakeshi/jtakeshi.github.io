@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Main Page"
 author_profile: true
 redirect_from: 
   - /about/
