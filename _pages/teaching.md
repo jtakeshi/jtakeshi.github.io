@@ -7,7 +7,7 @@ author_profile: true
 
 Old Dominion University
 --
-* Cryptography (CSE/CYSE 463/563)
+* Cryptography (CSE/CYSE 463/563), 2 semesters and counting
 
 I'm especially proud of my first semester teaching Cryptography for Cybersecurity at ODU.
 Firstly, I have overhauled the final project, which now allows students their choice of 3 activities: a survey paper of a subfield of cryptography, a
