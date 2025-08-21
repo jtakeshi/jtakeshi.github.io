@@ -1,14 +1,12 @@
 ---
 layout: single
-title: "Research"
+title: "Research Projects and Publications"
 permalink: /research/
 author_profile: true
 
 ---
 
-Research Projects and Publications
-====
-My research can also be viewed at my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=l7O3XKcAAAAJ&view_op=list_works&sortby=pubdate).
+My research papers can also be viewed at my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=l7O3XKcAAAAJ&view_op=list_works&sortby=pubdate).
 
 (NB: some papers may be listed in more than one area. Listings are approximately chronological.)
 
