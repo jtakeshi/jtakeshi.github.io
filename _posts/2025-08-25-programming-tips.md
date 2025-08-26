@@ -1,5 +1,5 @@
 ---
-title: 'Programming Tips'
+title: 'Research programming tips from my time at Notre Dame'
 date: 2025-08-25
 permalink: /posts/2025/08/programming-tips/
 tags:
@@ -7,8 +7,6 @@ tags:
   - from_nd
 ---
 
-Research programming tips from my time at Notre Dame
-===
 (These were originally written during my time as a graduate student. After a bit of time and perspective, I should note that this is tailored to the kind of research that I do, and also to my personal way of doing things, which has worked for me well in the past and hopefully is useful to students at some point. The wise student also knows when and how to ignore these guidelines. A more full description of my programming guidelines for my research group is in progress and should be available Soon(TM).)
 
 A collection of miscellaneous programming and computer tips that I really needed at some points in the past, and probably will need again in the future.
