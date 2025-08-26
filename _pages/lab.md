@@ -7,6 +7,7 @@ author_profile: true
 
 The Applied Privacy Engineering and Science (APES) Lab at Old Dominion University conducts innovative research into practical aspects of digital privacy and computer security.
 Recent topics the APES Lab has studied include trusted hardware, LLM security, and homomorphic encryption.
+
 Sadly, the APES Lab does not conduct research on apes -- I am happy to change that, if any collaborators are interested.
 
 Members
@@ -16,7 +17,7 @@ Members
 * Aaron Killinbeck
   * Undergraduate student at ODU, Summer 2025 - present
 * Alekhya Mengani
-  * MS student at ODU, Spring 2025 - present
+  * MS student at ODU, Spring 2025 - Summer 2025
 
 Affiliated Researchers and Mentees
 ==
