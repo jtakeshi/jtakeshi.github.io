@@ -8,6 +8,7 @@ author_profile: true
 NB: I have given conference talks for each of my first-author conference papers, which can be found here: [Research](https://jtakeshi.github.io/research/).
 There may be some overlap between the items here and in the research categories listed.
 Slides and notes are available upon request.
+* "A Comparative Analysis of Japanese and American Higher Education" (Old Dominion University) - May 28, 2025
 * "The Future of Voice Communications: AI Transformations Roundtable" (Old Dominion University and Map Communications) - April 30, 2025
 * "Failure and Success in Graduate Study" (ODU CS 800) - March 3, 2025
 * "SLAP: Simpler, Improved Private Stream Aggregation from Ring Learning with Errors" (2024 Australasian Database Conference - Tokyo) - Dec. 18, 2024
