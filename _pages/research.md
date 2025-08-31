@@ -81,6 +81,7 @@ Technology and Society
 --
 My belief is that an important purpose of academic research is to not only carry out purely technical work, but to think critically about how that work affects society. This is especially important for computer scientists, considering how strongly the world is impacted by our domain. My work to uphold this obligation spans topics including AI, law, and higher education.
 
+* Duty of Care: A Call for Open and Responsible AI Innovation in Healthcare. (Position paper to be published in the AAAI 2025 Fall Symposium Series, SECURE-AI4H)
 * Spoke at "The Future of Voice Communications: AI Transformations Roundtable" - Old Dominion University and Map Communications (Spring 2025)
 * Presented "Failure and Success in Graduate Study" - ODU CS 800 (Spring 2025)
 * Presented "Privacy-Enhancing Technologies in American Law" at the Kwansei Gakuin University Workshop on Privacy-Enhancing Technologies and Law (2024)
