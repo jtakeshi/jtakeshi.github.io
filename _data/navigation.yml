@@ -27,6 +27,9 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+
+ - title: "Blog Posts"
+    url: /service/
     
   - title: "CV"
     url: /files/CV_Jonathan_Takeshita.pdf
