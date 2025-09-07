@@ -11,6 +11,7 @@ Categories and books are in no particular order, and the books included represen
 
 Big Tech and Social Media
 ==
+* An Ugly Truth: Inside Facebook's Battle for Domination, by Sheera Frenkel and Cecilia Kang 
 * Careless People, by Sarah Wynn-Williams
 * Disrupted, by Dan Lyons
 * The Upstarts, by Brad Stone
