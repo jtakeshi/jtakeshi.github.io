@@ -9,6 +9,9 @@ This page has a listing of some books that I have read (relatively) recently, an
 Naturally, these are best suited towards computer science or cybersecurity majors, but should be generally accessible (I have intentionally excluded textbooks).
 Categories and books are in no particular order, and the books included represent only my own opinions on a good book -- in particular, this does not represent the opinions of any of my present or former employers.
 
+For students doing a book report: you may choose any book on this list, or choose your own book that is in a similar vein.
+Some books may be easier than others to tie in to technical coursework.
+
 Big Tech and Social Media
 ==
 * An Ugly Truth: Inside Facebook's Battle for Domination, by Sheera Frenkel and Cecilia Kang 
