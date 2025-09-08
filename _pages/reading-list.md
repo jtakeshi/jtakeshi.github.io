@@ -5,6 +5,7 @@ permalink: /reading-list/
 author_profile: true
 ---
 I am of the opinion that college students' educations are only really complete with a great deal of analytic and critical reading.
+(See [https://www.insidehighered.com/opinion/career-advice/carpe-careers/2025/09/08/case-pleasure-reading-grad-school-opinion](https://www.insidehighered.com/opinion/career-advice/carpe-careers/2025/09/08/case-pleasure-reading-grad-school-opinion) for an opinion piece expanding on the value of reading for advanced students.)
 This page has a listing of some books that I have read (relatively) recently, and that I think are particularly excellent for this purpose.
 Naturally, these are best suited towards computer science or cybersecurity majors, but should be generally accessible (I have intentionally excluded textbooks).
 Categories and books are in no particular order, and the books included represent only my own opinions on a good book -- in particular, this does not represent the opinions of any of my present or former employers.
