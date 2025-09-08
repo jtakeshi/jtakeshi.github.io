@@ -30,6 +30,9 @@ main:
 
   - title: "Service"
     url: /service/
+  
+  - title: "Reading List"
+    url: /reading-list/
     
   - title: "CV"
     url: /files/CV_Jonathan_Takeshita.pdf
