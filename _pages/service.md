@@ -10,7 +10,7 @@ Institutional Service and Leadership
 --
 * ODU School of Cybersecurity Graduate Committee Member, 2025-present
 * Host for the ODU Computer Science Open House, 2025
-* ODU Department of Computer Science Systems Committee Member, 2025--present (7 candidacy exams)
+* ODU Department of Computer Science Systems Committee Member, 2025-present (7 candidacy exams)
 * Vice President, Notre Dame Graduate Student Government, 2020-2021
 
 Scholarly Service
