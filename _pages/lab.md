@@ -5,10 +5,12 @@ permalink: /lab/
 author_profile: true
 ---
 
+![Several Japanese monkeys in a hot spring](https://raw.githubusercontent.com/jtakeshi/jtakeshi.github.io/refs/heads/base/images/onsen-saru.jpg "Yes, I know monkeys and apes are different. But, these guys look neat.")
+
 The Applied Privacy Engineering and Science (APES) Lab at Old Dominion University conducts innovative research into practical aspects of digital privacy and computer security.
 Recent topics the APES Lab has studied include trusted hardware, LLM security, and homomorphic encryption.
 
-Sadly, the APES Lab does not conduct research on apes -- I am happy to change that, if any collaborators are interested.
+Sadly, the APES Lab does not conduct research on apes or any other cute animals -- I am happy to change that, if any collaborators are interested.
 
 Members
 ==
