@@ -22,7 +22,7 @@ repository               : "jtakeshi/jtakeshi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "odu-headshot-spring2025.jpg"
   name             : "Jonathan Takeshita"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor @ ODU"
