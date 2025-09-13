@@ -16,3 +16,9 @@ Hi! I’m Jonathan Takeshita (竹下ジョナサン賢), and I am currently an A
 Previously, I was a doctoral student in the Department of Computer Science and Engineering at The University of Notre Dame, advised by Dr. Taeho Jung. My graduate studies were generously supported by the Jack and Mary Ann Remick Fellowship in Engineering, which is one of the most prestigious funded fellowships offered by Notre Dame. After Notre Dame, I was a Postdoctoral Researcher at the Tokyo Institute of Technology, where I was advised by Dr. Yang Cao. I hold a B.S.E. in Computer Science from The University of Michigan at Ann Arbor, and a B.A. in Engineering Physics and Music from Albion College. I have held various positions in research, development, and teaching at these institutions, as well as at Meta, Google, Epic, Washington University in St. Louis, Cornami, and Schoolcraft College.
 
 Besides research, I enjoy classical piano, teaching computer science, C/C++ programming, Linux gaming, and Michigan football.
+
+<figure>
+  <img src="https://raw.githubusercontent.com/jtakeshi/jtakeshi.github.io/refs/heads/base/images/oookayama-cropped.png" alt="A photo of me"/>
+  <figcaption>Very excited about cryptography? Doing a Santa impression? Or just caught yawning?</figcaption>
+</figure>
+
