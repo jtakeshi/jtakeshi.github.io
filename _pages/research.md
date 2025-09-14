@@ -68,7 +68,7 @@ These works show massive performance gains over the prior state-of-the-art, and 
 Further, the greatly improved simplicity of these schemes paves the way forward for future research and development.
 Applications of this work include privacy-preserving elections, advertising, data mining, and artificial intelligence; this work can also be directly applied to existing strategies such as federated learning.
 
-* [Cryptonite: A Framework for Flexible Time-Series Secure Aggregation with Non-interactive Fault Recovery (Journal extension, published in SN Computer Science in 2024)](https://link.springer.com/article/10.1007/s42979-025-03804-w)
+* [Cryptonite: A Framework for Flexible Time-Series Secure Aggregation with Non-interactive Fault Recovery (Journal extension, published in SN Computer Science in 2025)](https://link.springer.com/article/10.1007/s42979-025-03804-w)
 * [PPSA: Polynomial Private Stream Aggregation for Time-Series Data Analysis (Published at Securecomm 2024)](https://eprint.iacr.org/2024/1460.pdf)
 * [SLAP: Simpler, Improved Private Stream Aggregation from Ring Learning with Errors](https://link.springer.com/article/10.1007/s00145-023-09450-w)
   * The software library for SLAP can be found [here](https://gitlab.com/jtakeshi/lattices/). It could do with some more QoL features, and maybe some multithreading.
