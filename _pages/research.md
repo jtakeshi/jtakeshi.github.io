@@ -10,6 +10,19 @@ My research papers can also be viewed at my [Google Scholar page](https://schola
 
 (NB: some papers may be listed in more than one area. Listings are approximately chronological.)
 
+Hardware Acceleration of Homomorphic Encryption
+--
+Homomorphic encryption allows computation on data while it is still encrypted, enabling privacy-preserving outsourced computation. 
+Unfortunately, the underlying mathematics lead to high computational intensity, data transfer latency, and memory overhead.
+My work in hardware acceleration seeks to overcome these obstacles via bespoke hardware, utilizing in-memory computing to allow high parallelism and obviate the data transfer penalties seen in conventional architectures.
+* [Privacy preserving in-memory computing engine (Preprint)](https://arxiv.org/abs/2308.02648)
+* [Accelerating finite-field and torus FHE via compute-enabled (S)RAM (Published in IEEE Transactions on Computers in 2023)](https://ieeexplore.ieee.org/abstract/document/10202174/)
+* Initial implementation and design of Google's [Jaxite](https://github.com/google/jaxite) library, which implements Torus FHE on a Tensor Processing Unit. 
+* [Algorithmic acceleration of B/FV-like somewhat homomorphic encryption for compute-enabled RAM (published at Selected Areas in Cryptography 2020)](https://link.springer.com/chapter/10.1007/978-3-030-81652-0_3)
+* [Computing-in-memory for performance and energy-efficient homomorphic encryption (published in IEEE Transactions on VLSI Systems in 2020)](https://ieeexplore.ieee.org/abstract/document/9179010/)
+
+(More papers forthcoming!)
+
 Trusted Hardware
 --
 Hardware-enforced security can operate much more efficiently than other methods of private computation, but faces serious limitations at high scale.
@@ -30,20 +43,6 @@ This work seeks to expand the scale and classes of computation that TEEs are cap
 
 (More papers forthcoming!)
 
-Hardware Acceleration of Homomorphic Encryption
---
-Homomorphic encryption allows computation on data while it is still encrypted, enabling privacy-preserving outsourced computation. 
-Unfortunately, the underlying mathematics lead to high computational intensity, data transfer latency, and memory overhead.
-My work in hardware acceleration seeks to overcome these obstacles via bespoke hardware, utilizing in-memory computing to allow high parallelism and obviate the data transfer penalties seen in conventional architectures.
-* [Privacy preserving in-memory computing engine (Preprint)](https://arxiv.org/abs/2308.02648)
-* [Accelerating finite-field and torus FHE via compute-enabled (S)RAM (Published in IEEE Transactions on Computers in 2023)](https://ieeexplore.ieee.org/abstract/document/10202174/)
-* Initial implementation and design of Google's [Jaxite](https://github.com/google/jaxite) library, which implements Torus FHE on a Tensor Processing Unit. 
-* [Algorithmic acceleration of B/FV-like somewhat homomorphic encryption for compute-enabled RAM (published at Selected Areas in Cryptography 2020)](https://link.springer.com/chapter/10.1007/978-3-030-81652-0_3)
-* [Computing-in-memory for performance and energy-efficient homomorphic encryption (published in IEEE Transactions on VLSI Systems in 2020)](https://ieeexplore.ieee.org/abstract/document/9179010/)
-
-(More papers forthcoming!)
-
-
 Homomorphic Encryption (besides hardware acceleration works)
 --
 Since the original formulation of fully homomorphic encryption in 2009, a great deal of research has gone into taking FHE from a theoretical construction to practical deployment.
@@ -58,6 +57,7 @@ The impact of this body of work contributes to making FHE truly usable for the o
 * [Provably secure contact tracing with conditional private set intersection (Published at Securecomm 2021)](https://link.springer.com/chapter/10.1007/978-3-030-90019-9_18)
 * [GPS: Integration of Graphene, PALISADE, and SGX for Large-scale Aggregations of Distributed Data. (Preprint)](https://eprint.iacr.org/2021/1155.pdf)
 
+(More papers forthcoming!)
 
 Private Stream Aggregation
 --
@@ -76,6 +76,7 @@ Applications of this work include privacy-preserving elections, advertising, dat
 * [Cryptonomial: A Framework for Private Time-Series Polynomial Calculations (Published at Securecomm 2021)](https://eprint.iacr.org/2021/473.pdf)
 * [Cryptonite: A Framework for Flexible Time-Series Secure Aggregation with Non-interactive Fault Recovery (Published at Securecomm 2021)](https://eprint.iacr.org/2020/1561.pdf)
 
+(More papers forthcoming!)
 
 Technology and Society
 --
