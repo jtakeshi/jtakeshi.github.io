@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-"Do not take a course under this professor. He expects students to submit assignments by the due date."
+"Do not take a course under this professor. He expects students to submit assignments by the due date."[^1]
 -----------------
+[^1]: An actual student complaint. I choose to see it as a compliment.
 
 Hi! I’m Jonathan Takeshita (竹下ジョナサン賢), and I am currently an Assistant Professor at Old Dominion University, where I am appointed in both the Department of Computer Science and School of Cybersecurity. The School is the first of its kind in the United States, and brings with its inception a wealth of new opportunities for cross-disciplinary work. My research spans a wide array of topics in privacy, including homomorphic encryption, trusted hardware, hardware acceleration for cryptography, private data aggregation, image deduplication, LLM security, and private advertising, as well as more diverse areas such as AI in education and music theory. I have also taught or tutored several courses in STEM subjects and music at a few different institutions now. I am currently a member of the ODU Cybersecurity Graduate Committee and the ODU Computer Science Systems Committee. For more information about my research, teaching, etc., please see the other pages on this site.
 
