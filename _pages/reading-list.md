@@ -49,4 +49,3 @@ History and Society
 * Five Days at Memorial, by Sheri Fink
 * High Crimes, by Michael Kodas
 * The System, by Jeff Benedict
-* Missoula: Rape and the Justice System in a College Town, by Jon Krakauer
