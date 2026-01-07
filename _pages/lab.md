@@ -7,7 +7,7 @@ author_profile: true
 
 <figure>
   <img src="https://raw.githubusercontent.com/jtakeshi/jtakeshi.github.io/refs/heads/base/images/onsen-saru.jpg" alt="Several Japanese monkeys in a hot spring"/>
-  <figcaption>Yes, I know monkeys aren't apes. But, these guys look so chill.</figcaption>
+  <figcaption>The APES Lab taking a break. (Yes, I know monkeys aren't apes. But, these guys look so chill.)</figcaption>
 </figure>
 
 The Applied Privacy Engineering and Science (APES) Lab at Old Dominion University conducts innovative research into practical aspects of digital privacy and computer security.
