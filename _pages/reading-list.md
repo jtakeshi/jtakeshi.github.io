@@ -13,8 +13,10 @@ Categories and books are in no particular order, and the books included represen
 For students doing a book report: you may choose any book on this list, or choose your own book that is in a similar vein.
 Some books may be easier than others to tie in to a technical course of study.
 
-Big Tech and Social Media
+(Big) Tech and Social Media
 ==
+* Number Go Up, by Zeke Faux
+* Going Infinite: The Rise and Fall of a New Tycoon, by Michael Lewis
 * An Ugly Truth: Inside Facebook's Battle for Domination, by Sheera Frenkel and Cecilia Kang 
 * Careless People, by Sarah Wynn-Williams
 * Disrupted, by Dan Lyons
@@ -22,6 +24,7 @@ Big Tech and Social Media
 * Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal, by Nick Bilton
 * Super Pumped: The Battle for Uber, by Mike Issac
 * Chaos Monkeys, by Antonio Garcia Martinez
+* Bad Blood: Secrets and Lies in a Silicon Valley Startup, by John Carreyrou
 
 Academia and Higher Education
 ==
