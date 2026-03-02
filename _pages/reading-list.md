@@ -38,13 +38,15 @@ Academia and Higher Education
 * The Death of Expertise: The Campaign Against Established Knowledge and why it Matters, by Tom Nichols
 * The Fall of the Faculty, by Benjamin Ginsberg
 * Educated: A Memoir, by Tara Westover
+* The Trouble with Ed Schools, by David Labaree
+* Degree Mills: The Billion-dollar Industry That Has Sold Over A Million Fake Diplomas, by Allen Ezell and John Bear
 
 Theory, Mathematics, and Technical
 ==
 * The Foundations of Mathematics, by Ian Stewart
 * Seventeen Equations that Changed the World, by Ian Stewart
 
-History and Society
+Miscellaneous
 ==
 * Where Men Win Glory, by Jon Krakauer
 * Under the Banner of Heaven: A Story of Violent Faith, by Jon Krakauer
