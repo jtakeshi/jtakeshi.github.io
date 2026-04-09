@@ -5,9 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-NB: I have given conference talks for each of my first-author conference papers, which can be found here: [Research](https://jtakeshi.github.io/research/).
+NB: I have also given conference talks for each of my first-author conference papers, which can be found here: [Research](https://jtakeshi.github.io/research/).
 There may be some overlap between the items here and in the research categories listed.
 Slides and notes are available upon request.
+* ["Improving Private Bioinformatics with Homomorphic Encryption"](http://mathcs.albion.edu/Colloquium_List.php?year=2025) (Albion College, Department of Mathematics and Computer Science Colloquium Series), March 26, 2026
+* "Understanding FHE Performance in the Cloud Era" (Tokyo Institute of Technology), January 25, 2026
+* "Duty of Care: A Call for Open and Responsible AI Innovation in Healthcare" (SECURE-AI4H Symposium, 2025 AAAI Symposium Series  - Washington, D.C.), November 14, 2025
 * "A Comparative Analysis of Japanese and American Higher Education" (Old Dominion University) - August 28, 2025
 * "The Future of Voice Communications: AI Transformations Roundtable" (Old Dominion University and Map Communications) - April 30, 2025
 * "Failure and Success in Graduate Study" (ODU CS 800) - March 3, 2025
