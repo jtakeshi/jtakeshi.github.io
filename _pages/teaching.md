@@ -25,7 +25,7 @@ conditionally including a separate solutions file, allowing the assignment sourc
 The template is also very well-organized and consistent, allowing my TA to grade more efficiently: previously, students would turn in
 handwritten-and-scanned or MS Word files, which can be much harder to read, and did not have any consistency enforced. Requiring the use of
 LaTeX for homework also teaches students how to use LaTeX, which is an extremely valuable skill for careers in scientific research or graduate
-education. I have shared this template with other instructors at ODU to help bring these benefits to their courses.
+education. I have shared this template with other instructors at ODU to help bring these benefits to their courses, and it is in use in at least one other course (as of April 2026).
 
 Finally, I have made significant changes to most assignments, which previously were nearly all fairly simple rote calculations. These changes
 challenge students to show a much more thorough understanding of cryptography than assignments only testing arithmetic. Questions I have
