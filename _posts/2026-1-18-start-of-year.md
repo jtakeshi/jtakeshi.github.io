@@ -16,5 +16,9 @@ The second of these comes from the difficult realization that I am a bit of an a
 My third resolution is to read more in Japanese. I can't quite get to actual books yet, but easy-JP news articles are getting to be within my grasp. Apple's in-browser EN/JP dictionary does make this a bit easier, which is a nice reminder that even with many recent prominent failures of technology, most of it does make our lives better!
 
 I'm looking forward to another year of excellence and learning with the APES lab, CS 463, and my colleagues at the School of Cybersecurity, Department of Computer Science, and across ODU! 
+<figure>
+  <img src="https://raw.githubusercontent.com/jtakeshi/jtakeshi.github.io/refs/heads/base/images/20260326_154702.jpg" alt="My presentation at Albion this semester"/>
+  <figcaption>My presentation at Albion this semester.</figcaption>
+</figure>
 
 [^1]: See _The Shadow Scholar_ by Dave Tomar for a look into the pre-AI era of buying papers online. It seems almost quaint nowadays.
