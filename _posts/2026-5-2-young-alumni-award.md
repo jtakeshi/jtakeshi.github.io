@@ -1,9 +1,9 @@
 ---
-title: 'Earned Albion's Young Alumni Award!'
-date: 2026-5-2
-permalink: /posts/2026/5/alumni-award/
-tags:
-  - award
+  title: 'Earned Albion's Young Alumni Award!'
+  date: 2026-5-2
+  permalink: /posts/2026/5/alumni-award/
+  tags:
+    - award
 ---
 
 Last Friday, I had the honor of being presented with one of Albion College's Young Alumni Awards at the Alumni Awards Ceremony. Returning to Albion is always a great experience, and being honored alongside my old Physics professor Aaron Miller made it extra special. My acceptance speech, paraphrased a bit, was something along these lines:
