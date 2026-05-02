@@ -1,5 +1,5 @@
 ---
-title: 'Earned Albion\'s Young Alumni Award!'
+title: "Earned Albion's Young Alumni Award!"
 date: 2026-5-2
 permalink: /posts/2026/5/alumni-award/
 tags:
