@@ -17,10 +17,12 @@ Sadly, the APES Lab does not conduct research on apes or any other cute animals 
 
 Members
 ==
+* Xuezhengwu Rao
+  * PhD student at ODU, Summer 2026 - present
 * Bikash Thapa
   * PhD student at ODU, Fall 2025 - present
 * Aaron Killinbeck
-  * Undergraduate student at ODU, Summer 2025 - present
+  * Undergraduate student at ODU, Summer 2025 - Summer 2026
 * Alekhya Mengani
   * MS student at ODU, Spring 2025 - Summer 2025
 
