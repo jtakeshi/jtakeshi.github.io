@@ -7,7 +7,9 @@ author_profile: true
 
 NB: I have also given conference talks for each of my first-author conference papers, which can be found here: [Research](https://jtakeshi.github.io/research/).
 There may be some overlap between the items here and in the research categories listed.
-Slides and notes are available upon request.
+Slides, abstracts, and notes are available upon request.
+* ["Privacy-Enhancing Technologies and their Business Implications (プライバシー強化技術とビジネスへの影響)"](./files/shizuken-talk-2026.pdf) (University of Shizuoka, School of Management and Informatics, July 8, 2026
+  * This talk was given twice on July 8, first to the class "Basic Business Administration" (140 first-year undergraduates), and later to an upper-level seminar. I do not recommend giving a 90-minute talk twice in one day without cough drops on hand.
 * ["Improving Private Bioinformatics with Homomorphic Encryption"](http://mathcs.albion.edu/Colloquium_List.php?year=2025) (Albion College, Department of Mathematics and Computer Science Colloquium Series), March 26, 2026
 * "Understanding FHE Performance in the Cloud Era" (Tokyo Institute of Technology), January 25, 2026
 * "Duty of Care: A Call for Open and Responsible AI Innovation in Healthcare" (SECURE-AI4H Symposium, 2025 AAAI Symposium Series  - Washington, D.C.), November 14, 2025
