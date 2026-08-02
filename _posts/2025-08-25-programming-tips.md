@@ -35,7 +35,7 @@ A collection of miscellaneous programming and computer tips that I really needed
 - Have a complete and clear specification for the project, and do not try to add in features a week before the deadline.
 - Start the project when it is assigned, and don’t procrastinate, unless you want to have a segfault you can’t figure out on the due date. This is harder for research projects where the goals and scope may frequently change.
 - Only keep one copy of a program installed on your system.
-- Python is the worst offender, but the 2/3 split isn’t always easily resolved.
+  - Python is the worst offender, but the 2/3 split isn’t always easily resolved.
 - Never hardcode values – it makes debugging harder, and makes bugs easy. Use static const (C++) or #define (C) for constants.
 - Mount your home and root directories on different disk partitions, so that you can easily switch operating systems while keeping your files.
 - Keep Windows and Linux on different disks so the Windows updater can’t mess with the Linux partitions.
