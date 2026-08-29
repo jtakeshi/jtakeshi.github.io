@@ -36,7 +36,7 @@ Academia and Higher Education
 * The Adjunct Underclass, by Herb Childress
 * Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life, by William Deresiewicz
 * The Death of Expertise: The Campaign Against Established Knowledge and why it Matters, by Tom Nichols
-* The Fall of the Faculty, by Benjamin Ginsberg
+* In The Basement of the Ivory Tower, Professor X
 * Educated: A Memoir, by Tara Westover
 * The Trouble with Ed Schools, by David Labaree
 * Degree Mills: The Billion-dollar Industry That Has Sold Over A Million Fake Diplomas, by Allen Ezell and John Bear
