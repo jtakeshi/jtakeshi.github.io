@@ -19,7 +19,7 @@ to my research areas, which has allowed me to give well-tailored advice to them.
 project, which gave students a very specific prompt to write about, or a programming project only related to material directly covered in class.
 
 Secondly, I have retypeset in LaTeX the homework and exams that I inherited from the existing course
-materials, and I require students to use this template. I created a new LaTex template with features such as allowing students to simply fill in
+materials, and I require students to use this template. I created a new LaTeX template with features such as allowing students to simply fill in
 their answers, automatically printing points near questions, and others. Notably, this template allows instructors to compile an answer key by
 conditionally including a separate solutions file, allowing the assignment source files to be given to the students without revealing the answers.
 The template is also very well-organized and consistent, allowing my TA to grade more efficiently: previously, students would turn in
