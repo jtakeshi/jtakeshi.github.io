@@ -8,9 +8,11 @@ author_profile: true
 NB: I have also given conference talks for each of my first-author conference papers, which can be found here: [Research](https://jtakeshi.github.io/research/).
 There may be some overlap between the items here and in the research categories listed.
 Slides, abstracts, and notes are available upon request.
-* ["Privacy-Enhancing Technologies and their Business Implications (プライバシー強化技術とビジネスへの影響)"](/files/shizuken-talk-2026.pdf) (University of Shizuoka, School of Management and Informatics, July 8, 2026
+* "Securing Large AI Models with Trusted Execution Environments" (ODU College of Sciences), Oct. 16, 2026
+* "An Overview of Private Computation" (ODU Blacks in Cybersecurity), Sept. 11, 2026
+* ["Privacy-Enhancing Technologies and their Business Implications (プライバシー強化技術とビジネスへの影響)"](/files/shizuken-talk-2026.pdf) (University of Shizuoka, School of Management and Informatics), July 8, 2026
   * This talk was given twice on July 8, first to the class "Basic Business Administration" (140 first-year undergraduates), and later to an upper-level seminar. I do not recommend giving a 90-minute talk twice in one day without cough drops on hand.
-  * I wrote some custom code in LaTeX to allow conditional compilation of the talk slides to either English or Japanese, while also adding English note slides. The Japanese version can also use furigana for easier reading, by the grace of the `pxrubrica` package, though entering kanji readings must be done manually.
+  * I wrote some custom code in LaTeX to allow conditional compilation of the talk slides to either English or Japanese, while also adding English note slides. The Japanese version can also use furigana for easier reading, by the grace of the `pxrubrica` package, though entering kanji readings must be done manually. This template is available upon request.
 * "Research in Private Computation" (Albion College, PHYS 168 (Analytical Physics)), April 17, 2026
 * ["Improving Private Bioinformatics with Homomorphic Encryption"](http://mathcs.albion.edu/Colloquium_List.php?year=2025) (Albion College, Department of Mathematics and Computer Science Colloquium Series), March 26, 2026
 * "Understanding FHE Performance in the Cloud Era" (Tokyo Institute of Technology), January 25, 2026
